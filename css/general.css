@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bullet {
+	color: #000;	
+}
+
+.done {
+	color:#0F0;
+	font-weight:bold;
+}
+
+.notdone {
+	color:#F00;	
+}
